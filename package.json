@@ -1,0 +1,26 @@
+{
+  "name": "tracking-entrega-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "lucide-react": "^0.453.0",
+    "xlsx": "^0.18.5",
+    "sonner": "^2.0.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "vite": "^7.1.7",
+    "typescript": "5.6.3",
+    "@types/react": "^19.2.1",
+    "@types/react-dom": "^19.2.1"
+  }
+}
+
